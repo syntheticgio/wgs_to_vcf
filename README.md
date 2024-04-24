@@ -1,4 +1,4 @@
-# WGS to VCF Converter
+# WGS to VCF Converter (TCGA Data)
 
 This program can be used to convert whole genome sequence data stored in a BigQuery table with the Institute for Systems Biology.  This covers over 1000 patient samples that have been processed against HG19 and are available for use for credentialed researchers.
 
